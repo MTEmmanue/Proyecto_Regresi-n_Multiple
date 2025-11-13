@@ -57,13 +57,13 @@ La estructura del repositorio está diseñada para ser escalable y mantenible.
 proyecto-emisiones-co2/
 │
 ├── .git/
-├── data/
+├── Data/
 │   └── CO2\_Emissions.csv       \# Datos crudos
 ├── models/
 │   └── co2\_model.joblib        \# Modelo entrenado (generado)
 ├── notebooks/
 │   └── EDA.ipynb               \# Análisis Exploratorio (el "laboratorio")
-├── reports/
+├── Reports/
 │   └── actual\_vs\_predicted.png \# Gráfico de resultados (generado)
 ├── src/
 │   ├── **init**.py
