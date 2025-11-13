@@ -140,3 +140,13 @@ Si deseas ver el análisis exploratorio inicial (gráficos de correlación, dist
 
 (Asegúrate de tener Jupyter instalado: `pip install jupyter`).
 
+---
+
+## 👨‍💻 Autor
+
+**Emmanuel Tapia**
+
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Tapia-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/emmanuel-mtapia/)
+* [![Portfolio](https://img.shields.io/badge/Portafolio-Web-blue?style=flat&logo=github)](https://mtemmanue.github.io/Portafolio_Data_Emmanuel/)
+
+---
