@@ -1,7 +1,7 @@
 # src/data_loader.py
 
 import pandas as pd
-from config import DATA_PATH  # <-- Importa la ruta desde tu config
+from src.config import DATA_PATH  # <-- Importa la ruta desde tu config
 
 def load_data():
     """
