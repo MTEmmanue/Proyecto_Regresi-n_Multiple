@@ -1,7 +1,3 @@
 # --- Archivos de Python ---
+regresion/
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-# --- Entornos virtuales ---
-regresion
