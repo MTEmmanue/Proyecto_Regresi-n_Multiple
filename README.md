@@ -20,7 +20,8 @@ El pipeline entrena un modelo de Regresión Lineal Múltiple para predecir las e
 
 Una línea diagonal perfecta indicaría un modelo perfecto. Como se puede ver, el modelo es altamente preciso.
 
-![Resultados del Modelo](Reports\actual_vs_predicted.png)
+![Resultados](Reports/actual_vs_predicted.png)
+
 
 | Métrica | Resultado |
 | :--- | :--- |
